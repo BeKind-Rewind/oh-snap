@@ -1,5 +1,6 @@
 {
-  "name": "portfolio",
+  "name": "Photo-Port",
+  "homepage": "http://BeKind-Rewind.github.io/photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,6 +31,7 @@
     "@babel/eslint-parser": "^7.19.1",
     "@testing-library/jest-dom": "^5.8.0",
     "@testing-library/react": "^12.1.5",
-    "@testing-library/user-event": "^12.8.3"
+    "@testing-library/user-event": "^12.8.3",
+    "gh-pages": "^4.0.0"
   }
 }
